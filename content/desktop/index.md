@@ -8,4 +8,3 @@ versions:
 
 {% link_with_intro /installing-and-configuring-github-desktop %}
 
-{% link_with_intro /contributing-and-collaborating-using-github-desktop %}
